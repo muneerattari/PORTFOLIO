@@ -59,6 +59,10 @@ margin: 20px;
   position: absolute;
   left: 40%;
   bottom: 10%;
+  background-color: rgb(126, 93, 93, 0.1);
+  border-radius: 100%;
+  padding: 28px;
+
 }
 
 
@@ -75,14 +79,68 @@ width: 250px;
 
 .bottom
 {
+  background-color: rgb(68, 60, 60);
   margin: 20px;
   display: flex;
   justify-content: space-around;
 margin: 20px 150px;
+padding: 23px 1px;
 }
 
 .bottom-background
 {
-  background-color: rgb(12, 12, 12);
-  padding: 7px;
+  background-color: rgb(60, 55, 55);
+  padding: 4px 24px;
+
 }
+
+
+.laststep {
+  display: flex;
+  justify-content: space-around;  
+  background-color: rgb(43, 40, 40);
+}
+
+.leftbottom {
+display: flex;
+justify-content: space-around;
+}
+
+.lcd1
+{
+  display: flex;
+justify-content: space-around;
+padding: 4px
+
+}
+
+.lcd2
+{
+  display: flex;
+justify-content: space-around;
+padding: 4px
+}
+
+.lcd3
+{
+  display: flex;
+justify-content: space-around;
+padding: 4px
+
+}
+
+.line1
+{ width: 100%;
+border: 1px solid grey
+
+}
+
+
+.line2
+{ width: 100%;
+border: 1px solid grey
+
+
+}
+
+
